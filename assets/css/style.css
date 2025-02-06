@@ -14203,8 +14203,8 @@ Popup Search CSS
   background-color: transparent;
 }
 .search-modal .btn-close {
-  top: -30px;
-  right: 8px;
+  top: 25px;
+  right: 32px;
   padding: 0;
   font-size: 30px;
   position: absolute;
@@ -14396,7 +14396,7 @@ Banner Card Area CSS
 }
 .banner-card .flex-warp h3,
 .banner-card .flex-warp .h3 {
-  font-size: 24px;
+  font-size: 21px;
   font-weight: 700;
   line-height: 1.42;
   margin-bottom: 0;
