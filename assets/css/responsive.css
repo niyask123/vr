@@ -1835,7 +1835,7 @@
     margin-bottom: 30px;
   }
   .about-content .check {
-    max-width: 500px;
+    max-width: 100%;
   }
   .about-content .check li {
     border-radius: 5px;
@@ -3282,7 +3282,7 @@
     margin-right: 10px;
   }
   .about-content .check {
-    max-width: 450px;
+    max-width: 100%;
   }
   /* works */
   .single-works-card {
@@ -3380,7 +3380,7 @@
     max-width: 100%;
   }
   .about-content .check {
-    max-width: 450px;
+    max-width: 100%px;
   }
   /* works */
   .single-works-card {
