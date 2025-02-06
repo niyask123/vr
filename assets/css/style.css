@@ -17692,6 +17692,7 @@ My Account Page
 ===================================================*/
 .login-form {
   padding: 40px 35px;
+  height: 100%;
 }
 .login-form h2,
 .login-form .h2 {
